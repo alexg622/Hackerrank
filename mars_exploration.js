@@ -21,6 +21,6 @@ function charsChanged(string) {
   return charsChangedHolder;
 }
 function main() {
-    var S = readLine();
-    console.log(charsChanged(S))
+  var S = readLine();
+  console.log(charsChanged(S))
 }
